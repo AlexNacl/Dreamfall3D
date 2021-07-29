@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/User/Desktop/DreamFall3D/Dreamfall/Packages/manifest.json
+    m_FilePath: C:/Users/User/Desktop/Dreamfall3D/DreamFall3D/Dreamfall/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637617145290565630
-    m_Hash: 2296374918
+      ticks: 637631591976656546
+    m_Hash: 4235701359
   m_LockFileStatus:
-    m_FilePath: C:/Users/User/Desktop/DreamFall3D/Dreamfall/Packages/packages-lock.json
+    m_FilePath: C:/Users/User/Desktop/Dreamfall3D/DreamFall3D/Dreamfall/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637617145290705245
-    m_Hash: 2116878410
+      ticks: 637631591976746688
+    m_Hash: 3703479702
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.6.5
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.cinemachine@2.6.5
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.cinemachine@2.6.5
       assetPath: Packages/com.unity.cinemachine
       name: com.unity.cinemachine
       displayName: Cinemachine
@@ -82,9 +82,11 @@ m_PackageAssets:
         - 2.7.2
         - 2.7.3
         - 2.7.4
+        - 2.7.5
         - 2.8.0-exp.1
         - 2.8.0-exp.2
         - 2.8.0-pre.1
+        - 2.8.0
         compatible:
         - 2.5.0
         - 2.6.0-preview.2
@@ -104,9 +106,11 @@ m_PackageAssets:
         - 2.7.2
         - 2.7.3
         - 2.7.4
+        - 2.7.5
         - 2.8.0-exp.1
         - 2.8.0-exp.2
         - 2.8.0-pre.1
+        - 2.8.0
         verified: 2.6.5
       dependencies: []
       resolvedDependencies: []
@@ -158,7 +162,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.5.7
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.collab-proxy@1.5.7
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.collab-proxy@1.5.7
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -210,6 +214,7 @@ m_PackageAssets:
         compatible:
         - 1.5.7
         - 1.6.0
+        - 1.7.1
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -263,7 +268,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -337,7 +342,7 @@ m_PackageAssets:
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.24
+        version: 1.1.27
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -365,12 +370,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
         revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.8
+    - packageId: com.unity.ide.visualstudio@2.0.9
       testable: 0
       isDirectDependency: 1
-      version: 2.0.8
+      version: 2.0.9
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ide.visualstudio@2.0.9
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -424,7 +429,7 @@ m_PackageAssets:
         version: 1.1.9
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.24
+        version: 1.1.27
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -444,20 +449,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637562620210000000
+      datePublishedTicks: 637580705480000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-        revision: 5cdf5d932e6ecbbd83bbe6a40eec2a94b4979501
+        revision: c7cd4c6319806423b3d918b3e9599244e3993d41
         path: 
     - packageId: com.unity.ide.vscode@1.2.3
       testable: 0
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -521,12 +526,200 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
-    - packageId: com.unity.test-framework@1.1.24
+    - packageId: com.unity.render-pipelines.universal@10.5.1
       testable: 0
       isDirectDependency: 1
-      version: 1.1.24
+      version: 10.5.1
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.test-framework@1.1.24
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.render-pipelines.universal@10.5.1
+      assetPath: Packages/com.unity.render-pipelines.universal
+      name: com.unity.render-pipelines.universal
+      displayName: Universal RP
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Universal Render Pipeline (URP) is a prebuilt Scriptable Render
+        Pipeline, made by Unity. URP provides artist-friendly workflows that let
+        you quickly and easily create optimized graphics across a range of platforms,
+        from mobile to high-end consoles and PCs.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 7.0.0
+        - 7.0.1
+        - 7.1.1
+        - 7.1.2
+        - 7.1.5
+        - 7.1.6
+        - 7.1.7
+        - 7.1.8
+        - 7.2.0
+        - 7.2.1
+        - 7.3.1
+        - 7.4.1
+        - 7.4.2
+        - 7.4.3
+        - 7.5.1
+        - 7.5.2
+        - 7.5.3
+        - 7.6.0
+        - 7.7.0
+        - 7.7.1
+        - 8.0.1
+        - 8.1.0
+        - 8.2.0
+        - 8.3.1
+        - 9.0.0-preview.14
+        - 9.0.0-preview.35
+        - 9.0.0-preview.55
+        - 9.0.0-preview.72
+        - 10.0.0-preview.26
+        - 10.1.0
+        - 10.2.0
+        - 10.2.1
+        - 10.2.2
+        - 10.3.1
+        - 10.3.2
+        - 10.4.0
+        - 10.5.0
+        - 10.5.1
+        - 10.6.0
+        compatible:
+        - 10.5.0
+        - 10.5.1
+        - 10.6.0
+        verified: 10.5.1
+      dependencies:
+      - name: com.unity.mathematics
+        version: 1.1.0
+      - name: com.unity.render-pipelines.core
+        version: 10.5.1
+      - name: com.unity.shadergraph
+        version: 10.5.1
+      resolvedDependencies:
+      - name: com.unity.mathematics
+        version: 1.1.0
+      - name: com.unity.render-pipelines.core
+        version: 10.5.1
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.shadergraph
+        version: 10.5.1
+      - name: com.unity.searcher
+        version: 4.3.2
+      keywords:
+      - graphics
+      - performance
+      - rendering
+      - mobile
+      - render
+      - pipeline
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637605794350000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/Graphics.git
+        revision: 73f32e8fcc2d0cbf3b73a16a5e30eb5cede41576
+        path: 
+    - packageId: com.unity.terrain-tools@3.0.2-preview.3
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.2-preview.3
+      source: 1
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.terrain-tools@3.0.2-preview.3
+      assetPath: Packages/com.unity.terrain-tools
+      name: com.unity.terrain-tools
+      displayName: Terrain Tools
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Terrain Tools package adds additonal terrain sculpting brushes
+        and tools to your project to help create stunning terrain assets and ease
+        the workflows.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.1.2-preview
+        - 1.1.4-preview
+        - 2.0.0-preview
+        - 2.0.1-preview
+        - 2.0.2-preview
+        - 3.0.0-preview
+        - 3.0.1-preview
+        - 3.0.2-preview.2
+        - 3.0.2-preview.3
+        - 4.0.0-pre.2
+        compatible:
+        - 1.1.2-preview
+        - 1.1.4-preview
+        - 2.0.0-preview
+        - 2.0.1-preview
+        - 2.0.2-preview
+        - 3.0.0-preview
+        - 3.0.1-preview
+        - 3.0.2-preview.2
+        - 3.0.2-preview.3
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - Terrain
+      - Brush
+      - Toolbox
+      - Mask
+      - Filter
+      - Noise
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637405549500000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/TerrainTools.git
+        revision: 76c6077597a43827f933b02c7db9ca819c74588e
+        path: 
+    - packageId: com.unity.test-framework@1.1.27
+      testable: 0
+      isDirectDependency: 1
+      version: 1.1.27
+      source: 1
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.test-framework@1.1.27
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -572,8 +765,6 @@ m_PackageAssets:
         - 1.1.26
         - 1.1.27
         compatible:
-        - 1.1.24
-        - 1.1.26
         - 1.1.27
         verified: 1.1.27
       dependencies:
@@ -605,20 +796,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637505702940000000
+      datePublishedTicks: 637594751620000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: e6fe8892689398c0d9aba4587e0ba69edc3d82b8
+        revision: c2f2cc9b7ea61d42964257363595dff5e8c47c42
         path: 
     - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -773,7 +964,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -923,7 +1114,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ugui@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ugui@1.0.0
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -986,7 +1177,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 10.5.1
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.visualeffectgraph@10.5.1
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.visualeffectgraph@10.5.1
       assetPath: Packages/com.unity.visualeffectgraph
       name: com.unity.visualeffectgraph
       displayName: Visual Effect Graph
@@ -1046,6 +1237,7 @@ m_PackageAssets:
         - 7.5.3
         - 7.6.0
         - 7.7.0
+        - 7.7.1
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -1068,6 +1260,7 @@ m_PackageAssets:
         compatible:
         - 10.5.0
         - 10.5.1
+        - 10.6.0
         verified: 10.5.1
       dependencies:
       - name: com.unity.shadergraph
@@ -1118,7 +1311,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.ai@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.ai@1.0.0
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1166,7 +1359,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.androidjni@1.0.0
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1214,7 +1407,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.animation@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1262,7 +1455,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1310,7 +1503,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.audio@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1358,7 +1551,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.cloth@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.cloth@1.0.0
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1410,7 +1603,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.director@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1466,7 +1659,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1515,7 +1708,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.imgui@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.imgui@1.0.0
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -1563,7 +1756,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -1611,7 +1804,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -1659,7 +1852,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.physics@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.physics@1.0.0
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -1707,7 +1900,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.physics2d@1.0.0
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -1755,7 +1948,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.screencapture@1.0.0
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -1807,7 +2000,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.terrain@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.terrain@1.0.0
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -1855,7 +2048,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -1911,7 +2104,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.tilemap@1.0.0
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -1963,7 +2156,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.ui@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.ui@1.0.0
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2011,7 +2204,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.uielements@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.uielements@1.0.0
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2075,7 +2268,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.umbra@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.umbra@1.0.0
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2123,7 +2316,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2179,7 +2372,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2227,7 +2420,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2283,7 +2476,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2339,7 +2532,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2395,7 +2588,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2467,7 +2660,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.vehicles@1.0.0
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2519,7 +2712,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.video@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.video@1.0.0
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -2579,7 +2772,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.vr@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.vr@1.0.0
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -2641,7 +2834,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.wind@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.wind@1.0.0
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -2689,7 +2882,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.xr@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.xr@1.0.0
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -2749,7 +2942,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.subsystems@1.0.0
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -2801,7 +2994,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -2860,7 +3053,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 10.5.1
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.shadergraph@10.5.1
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.shadergraph@10.5.1
       assetPath: Packages/com.unity.shadergraph
       name: com.unity.shadergraph
       displayName: Shader Graph
@@ -2950,6 +3143,7 @@ m_PackageAssets:
         - 7.5.3
         - 7.6.0
         - 7.7.0
+        - 7.7.1
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -2972,6 +3166,7 @@ m_PackageAssets:
         compatible:
         - 10.5.0
         - 10.5.1
+        - 10.6.0
         verified: 10.5.1
       dependencies:
       - name: com.unity.render-pipelines.core
@@ -3015,7 +3210,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 10.5.1
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.render-pipelines.core@10.5.1
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.render-pipelines.core@10.5.1
       assetPath: Packages/com.unity.render-pipelines.core
       name: com.unity.render-pipelines.core
       displayName: Core RP Library
@@ -3107,6 +3302,7 @@ m_PackageAssets:
         - 7.5.3
         - 7.6.0
         - 7.7.0
+        - 7.7.1
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -3130,6 +3326,7 @@ m_PackageAssets:
         compatible:
         - 10.5.0
         - 10.5.1
+        - 10.6.0
         verified: 10.5.1
       dependencies:
       - name: com.unity.ugui
@@ -3167,7 +3364,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3223,12 +3420,87 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
+    - packageId: com.unity.mathematics@1.1.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.1.0
+      source: 1
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.mathematics@1.1.0
+      assetPath: Packages/com.unity.mathematics
+      name: com.unity.mathematics
+      displayName: Mathematics
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Unity's C# SIMD math library providing vector types and math functions
+        with a shader like syntax.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
+        - 1.1.0
+        - 1.2.1
+        compatible:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
+        - 1.1.0
+        - 1.2.1
+        verified: 1.2.1
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 636984649280000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git@github.com:Unity-Technologies/Unity.Mathematics.git
+        revision: 0a3dfafaf606098ea681de4c4be60f3aac63b773
+        path: 
     - packageId: com.unity.nuget.newtonsoft-json@2.0.0
       testable: 0
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3302,7 +3574,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.3.2
       source: 1
-      resolvedPath: C:\Users\User\Desktop\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.searcher@4.3.2
+      resolvedPath: C:\Users\User\Desktop\Dreamfall3D\DreamFall3D\Dreamfall\Library\PackageCache\com.unity.searcher@4.3.2
       assetPath: Packages/com.unity.searcher
       name: com.unity.searcher
       displayName: Searcher
@@ -3375,5 +3647,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/User/Desktop/DreamFall3D/Dreamfall/Packages
-m_EditorVersion: 2020.3.12f1 (b3b2c6512326)
+m_ProjectPath: C:/Users/User/Desktop/Dreamfall3D/DreamFall3D/Dreamfall/Packages
+m_EditorVersion: 2020.3.14f1 (d0d1bb862f9d)
